@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1061489629398",
+    "project_id": "chup2227",
+    "storage_bucket": "chup2227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061489629398:android:eb8afcb913bd431c3a5177",
+        "android_client_info": {
+          "package_name": "com.example.chup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061489629398-aercbd4gvb5jjl4tmi4r6ppc9ijs91eu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chup",
+            "certificate_hash": "dc1758463923b555dbcbcf652f7b5f3c23d35808"
+          }
+        },
+        {
+          "client_id": "1061489629398-euer920q5cjqh9j65v0oi6bu8525ttig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBUoTecO3EZ8kKYBgOAfy5NNlYF-ZHDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061489629398-dsjufto4bqnjt0gg1rbj13lmi4ecjdo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
